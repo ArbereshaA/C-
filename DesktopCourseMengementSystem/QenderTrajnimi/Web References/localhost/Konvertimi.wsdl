@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="convertEuroToDen">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="x" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="convertEuroToDenResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="convertEuroToDenResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="convertDenToEuro">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="x" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="convertDenToEuroResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="convertDenToEuroResult" type="s:double" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="convertEuroToDenSoapIn">
+    <wsdl:part name="parameters" element="tns:convertEuroToDen" />
+  </wsdl:message>
+  <wsdl:message name="convertEuroToDenSoapOut">
+    <wsdl:part name="parameters" element="tns:convertEuroToDenResponse" />
+  </wsdl:message>
+  <wsdl:message name="convertDenToEuroSoapIn">
+    <wsdl:part name="parameters" element="tns:convertDenToEuro" />
+  </wsdl:message>
+  <wsdl:message name="convertDenToEuroSoapOut">
+    <wsdl:part name="parameters" element="tns:convertDenToEuroResponse" />
+  </wsdl:message>
+  <wsdl:portType name="KonvertimiSoap">
+    <wsdl:operation name="convertEuroToDen">
+      <wsdl:input message="tns:convertEuroToDenSoapIn" />
+      <wsdl:output message="tns:convertEuroToDenSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="convertDenToEuro">
+      <wsdl:input message="tns:convertDenToEuroSoapIn" />
+      <wsdl:output message="tns:convertDenToEuroSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="KonvertimiSoap" type="tns:KonvertimiSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="convertEuroToDen">
+      <soap:operation soapAction="http://tempuri.org/convertEuroToDen" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="convertDenToEuro">
+      <soap:operation soapAction="http://tempuri.org/convertDenToEuro" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="KonvertimiSoap12" type="tns:KonvertimiSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="convertEuroToDen">
+      <soap12:operation soapAction="http://tempuri.org/convertEuroToDen" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="convertDenToEuro">
+      <soap12:operation soapAction="http://tempuri.org/convertDenToEuro" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Konvertimi">
+    <wsdl:port name="KonvertimiSoap" binding="tns:KonvertimiSoap">
+      <soap:address location="http://localhost:55109/Konvertimi.asmx" />
+    </wsdl:port>
+    <wsdl:port name="KonvertimiSoap12" binding="tns:KonvertimiSoap12">
+      <soap12:address location="http://localhost:55109/Konvertimi.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

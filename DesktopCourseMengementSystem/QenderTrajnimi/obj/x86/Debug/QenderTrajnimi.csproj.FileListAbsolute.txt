@@ -1,0 +1,87 @@
+c:\users\artan abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe
+c:\users\artan abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.pdb
+c:\users\artan abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Properties.Resources.resources
+c:\users\artan abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.csproj.GenerateResource.Cache
+c:\users\artan abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.exe
+c:\users\artan abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.pdb
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.pagesat.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Qytetet.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Login.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Home.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Menaxhimi_i_Kurseve.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Ligjeruesit.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Regjistrimi.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Vlersimi.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Rezultatet.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe.config
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Regjistrimi_Print.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\RdlCompile.cache
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Rezultatet_print.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.pagesa_print.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Konvertim.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.csprojResolveAssemblyReference.cache
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.SendFax.resources
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe.manifest
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.application
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.exe.manifest
+C:\Users\Artan Abdulla\documents\visual studio 2010\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.application
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe.manifest
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.application
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Konvertim.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Login.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Home.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Menaxhimi_i_Kurseve.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Ligjeruesit.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.pagesa_print.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Regjistrimi.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Regjistrimi_Print.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Rezultatet_print.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.SendFax.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Vlersimi.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Rezultatet.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Qytetet.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Pagesat.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\RdlCompile.cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\RdlCompile.compiled
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.exe.manifest
+C:\Users\HP\Documents\Visual Studio 2012\Projects\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.application
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe.config
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.exe
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.pdb
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.csprojResolveAssemblyReference.cache
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Konvertim.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Login.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Home.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Menaxhimi_i_Kurseve.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Ligjeruesit.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.pagesa_print.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Regjistrimi.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Regjistrimi_Print.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Rezultatet_print.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.SendFax.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Vlersimi.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Rezultatet.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Qytetet.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Pagesat.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.Properties.Resources.resources
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.csproj.GenerateResource.Cache
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe.manifest
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.application
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.exe
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\bin\Debug\QenderTrajnimi.pdb
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.exe.manifest
+C:\Users\Artan\OneDrive\Desktop\Artan Abdulla\Universiteti i Tetoves - Informatike\C# projekti\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.application
+C:\Users\arbre\Downloads\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.exe
+C:\Users\arbre\Downloads\QenderTrajnimi\QenderTrajnimi\obj\x86\Debug\QenderTrajnimi.pdb
